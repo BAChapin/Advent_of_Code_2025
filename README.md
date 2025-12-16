@@ -9,7 +9,7 @@ Similar to previous years, I will continue to time my functions and record their
 ### Organization
 ```
 /
-├─── AoC2023.playground
+├─── AoC2025.playground
 │    ├─── Sources
 │    │    ├─── Utility.swift
 │    │    ├─── SolutionEngine.swift
@@ -34,7 +34,8 @@ Similar to previous years, I will continue to time my functions and record their
 
 | Day  | Date/Time Completed | Name                            |
 | :-:  | :-----------------: | :------------------------------ |
-|  1   | Dec 15 - 10:07      | Secret Entrance.                |
+|  1   | Dec 15 - 10:07      | Secret Entrance                 |
+|  2   | Dec 16 - 00:11      | Gift Shop                       |
 
 ## Get Involved
 

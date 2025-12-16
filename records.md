@@ -2,6 +2,8 @@
 | :---: | :------------------------------ | :----: | :------------------------- | :--------------: | :----------------------: |
 | 1     | Secret Entrance                 | 1      | Initial Design             | 2.6 ms           | --                       |
 | 1     | Secret Entrance                 | 2      | Initial Design             | 2.11 ms          | --                       |
+| 2     | Gift Shop                       | 1      | Initial Design             | 526.65 ms        | --                       |
+| 2     | Gift Shop                       | 2      | Initial Design             | 10 s 370 ms      | --                       |
 
 <sup>1</sup> This will clarify the change that was made to change the time metrics.
 
